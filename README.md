@@ -15,6 +15,24 @@ Smile is a web application that offers a seamless integration of camera and gall
 <h1>Usage</h1>
 To use Smile, simply access the web application through your preferred browser. Grant the necessary permissions to access your camera and microphone when prompted. From there, you can easily capture images, record videos, apply filters, and manage your media files using the intuitive user interface.
 
+<h1>Demo</h1>
+
+<h3>Original Image</h3>
+
+
+![original](https://github.com/Zenith-17/Incandescent/assets/99113156/1975215f-b055-4fc2-b196-e864038c6731)
+
+<h3>Pink filter</h3>
+
+
+![pink](https://github.com/Zenith-17/Incandescent/assets/99113156/7bfaab11-8315-494e-8295-1cdcb4dc6b82)
+
+<h3>Yellow Filter</h3>
+
+
+![yellow](https://github.com/Zenith-17/Incandescent/assets/99113156/96629fa1-025b-48d9-9bc3-af73dad741f0)
+
+
 <h1>Development</h1>
 If you're interested in contributing to Smile or exploring its codebase, follow these steps:
 
