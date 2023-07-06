@@ -171,3 +171,56 @@ font-family: 'Kablammo', cursive;
         0 0 102px #0fa,
         0 0 151px #0fa;
   }
+
+
+
+  @media (max-width: 768px) {
+    .action-cont {
+      height: 8rem;
+      width: 4rem;
+      top: calc((100vh - 8rem) / 2);
+      right: 4rem;
+    }
+    .record-btn-cont{
+        margin-bottom: 2rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .action-cont {
+      height: 6rem;
+      width: 3rem;
+      top: calc((100vh - 6rem) / 2);
+      right: 3rem;
+    }
+  
+    .filter-cont {
+      top: calc((100vh - 12rem) / 2);
+      left: 3rem;
+      height: 12rem;
+      width: 3rem;
+    }
+  
+    .timer-cont {
+      bottom: 5rem;
+      left: 3rem;
+      font-size: 0.6rem;
+    }
+  
+    .material-icons {
+      font-size: 2rem;
+    }
+  
+    .gallery {
+      right: 4rem;
+      bottom: 5rem;
+    }
+  
+    .smile {
+      font-size: 3.2rem;
+    }
+    .record-btn-cont{
+        margin-bottom: 2rem;
+    }
+  }
+
